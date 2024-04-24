@@ -74,7 +74,7 @@ To set up the project, follow these steps:
 1. **Prerequisites**: Ensure you have Node.js, .NET Core, MySQL, and Git installed. If using Docker, ensure Docker is installed and running.
 2. **Clone the repository**:
    ```bash
-   git clone [repository_url]
+   git clone https://github.com/AbhishekPandey10/softwareProjectManagementSystem.git
    cd SoftwareProjectManagementSystem
 3. Set up the environment variables: Create an .env file in the server/ directory with sensitive information like database credentials.
 4. Install dependencies:
